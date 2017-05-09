@@ -1,1 +1,1 @@
-# WHMCSLicense
+# WHMCS License
